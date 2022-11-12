@@ -14,3 +14,7 @@ ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
 ls
 
 cat testkey.pub (bublic)
+git push origin main
+
+
+bla bla
