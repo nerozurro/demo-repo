@@ -14,3 +14,10 @@ ssh-keygen -t rsa -b 4096 -C "email@gmail.com"
 ls
 
 cat testkey.pub (bublic)
+git push origin main
+
+
+git branch
+git checkout -b feature--readme-ibstructions
+
+git diff feature-readme-instrctions
